@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Test!"
+date:   2016-02-24 16:17:49 +0100
+categories: test
+---
+
 def print_hi(name)
   puts "Hi, #{name}"
 end

@@ -6,21 +6,23 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Feb 2016 15:50:30 +0100</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 15:50:30 +0100</lastBuildDate>
+    <pubDate>Wed, 24 Feb 2016 17:09:28 +0100</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 17:09:28 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Test</title>
+        <title>Test!</title>
         <description>&lt;p&gt;def print_hi(name)
   puts “Hi, #{name}”
 end
 print_hi(‘Tom’)&lt;/p&gt;
 </description>
-        <pubDate>Wed, 24 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://yourdomain.com/2016/02/24/test.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/02/24/test.html</guid>
+        <pubDate>Wed, 24 Feb 2016 16:17:49 +0100</pubDate>
+        <link>http://yourdomain.com/test/2016/02/24/test.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/test/2016/02/24/test.html</guid>
         
+        
+        <category>test</category>
         
       </item>
     
